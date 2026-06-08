@@ -34,5 +34,7 @@ Mendukung peran berbeda (admin, editor, viewer) untuk kolaborasi tim.
 - UMKM yang ingin menampilkan produk atau layanan berbeda dalam halaman terpisah.
 - Organisasi yang butuh landing page untuk event, kampanye, atau divisi tertentu.
 
-## Menerima Saweran
+## Menerima Traktiran Kopi
 Setiap saweranmu bikin semangat terus! : [Saweria](https://saweria.co/abeyczr)
+
+## [Video Demo](https://youtu.be/98hkWeZuBFA)
