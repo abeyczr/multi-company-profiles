@@ -1,7 +1,6 @@
-# multi-company-profiles
-# Getting Started with CMS COMPRO
-
-### Generated with [RadSystems](https://radsystems.io)
+## multi-company-profiles
+## Getting Started with CMS COMPRO
+## Generated with [RadSystems Studio v8.7.0](https://radsystems.io)
 
 ## Frameworks
 - ### UI Framework - [Laravel](https://laravel.com)
@@ -35,4 +34,5 @@ Mendukung peran berbeda (admin, editor, viewer) untuk kolaborasi tim.
 - UMKM yang ingin menampilkan produk atau layanan berbeda dalam halaman terpisah.
 - Organisasi yang butuh landing page untuk event, kampanye, atau divisi tertentu.
 
-Setiap saweranmu bikin semangat terus! : https://saweria.co/abeyczr
+## Menerima Saweran
+Setiap saweranmu bikin semangat terus! : [Saweria](https://saweria.co/abeyczr)
