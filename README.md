@@ -34,3 +34,5 @@ Mendukung peran berbeda (admin, editor, viewer) untuk kolaborasi tim.
 - Perusahaan konsultan yang memiliki banyak klien, masing-masing dengan landing page khusus.
 - UMKM yang ingin menampilkan produk atau layanan berbeda dalam halaman terpisah.
 - Organisasi yang butuh landing page untuk event, kampanye, atau divisi tertentu.
+
+Setiap saweranmu bikin semangat terus! : https://saweria.co/abeyczr
