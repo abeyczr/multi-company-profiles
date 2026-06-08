@@ -1,15 +1,9 @@
-<<<<<<< HEAD
 # multi-company-profiles
-=======
 # Getting Started with CMS COMPRO
 
 ### Generated with [RadSystems](https://radsystems.io)
 
 ## Frameworks
-
 - ### UI Framework - [Laravel](https://laravel.com)
-
 - ### Database ORM - [Eloquent ORM](https://laravel.com/docs/5.0/eloquent)
 - ### Default Database - [MySQL](https://www.mysql.com/)
->>>>>>> da67b81 (first commit)
-"# multi-company-profiles" 
