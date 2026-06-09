@@ -1,4 +1,4 @@
-## multi-company-profiles
+## CMS MULTI COMPANY PROFILE
 ## Getting Started with CMS COMPRO
 ## Generated with [RadSystems Studio v8.7.0](https://radsystems.io)
 
@@ -35,6 +35,8 @@ Mendukung peran berbeda (admin, editor, viewer) untuk kolaborasi tim.
 - Organisasi yang butuh landing page untuk event, kampanye, atau divisi tertentu.
 
 ## Menerima Traktiran Kopi
-Setiap saweranmu bikin semangat terus! : [Saweria](https://saweria.co/abeyczr)
+Setiap saweranmu bikin semangat terus! : 
+- [Saweria](https://saweria.co/abeyczr)
+- [Ko-fi](https://ko-fi.com/abeyczr)
 
 ## [Video Demo](https://youtu.be/98hkWeZuBFA)
